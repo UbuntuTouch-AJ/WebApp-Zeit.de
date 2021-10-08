@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Zeit
+Comment=Morph based zeit.de Webapp
+Exec=qmlscene %u app/Main.qml --scaling --software
+Terminal=false
+Type=Application
+Icon=icon2.png
+X-Ubuntu-Touch=true
+
+X-Ubuntu-Splash-Color=#f7f7f7
+X-Ubuntu-Splash-Image=icon-splash.png
+
+Name[de_DE]=Zeit
